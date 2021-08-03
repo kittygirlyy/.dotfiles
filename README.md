@@ -1,2 +1,2 @@
 # .dotfiles
-Linux config files
+**All my config files and more !**
