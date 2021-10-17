@@ -1,2 +1,4 @@
-# .dotfiles
-**All my config files and more !**
+# Welcome to my repo for my dotfiles 👋
+
+
+
