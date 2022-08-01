@@ -21,4 +21,4 @@
    - **Editor:** [neovim](https://github.com/neovim/neovim)
    - **Browser:** [firefox](https://www.mozilla.org/en-US/firefox)
    - **Notification Daemon:** [dunst](https://github.com/dunst-project/dunst)
-   - **Developpment Environnement:** [VSCodium](https://github.com/VSCodium/vscodium)
+   - **Development Environnement:** [VSCodium](https://github.com/VSCodium/vscodium)
