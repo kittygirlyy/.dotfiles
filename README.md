@@ -12,16 +12,17 @@
 <!-- INFORMATION -->
 ## :cat: <samp>INFORMATIONS</samp>
 
-   
+<img align="right" width="400" height="225" src="https://cdn.discordapp.com/attachments/1050059938233319465/1057402587898458233/image.png">
 
-   - **Window Manager:** [bspwm](https://github.com/baskerville/bspwm)
-   - **Terminal:** [kitty](https://github.com/kovidgoyal/kitty)
-   - **Shell:** [zsh](https://www.zsh.org/)
-   - **Compositor:** [picom](https://github.com/yshui/picom)
-   - **Editor:** [neovim](https://github.com/neovim/neovim)
-   - **Browser:** [firefox](https://www.mozilla.org/en-US/firefox)
-   - **Notification Daemon:** [dunst](https://github.com/dunst-project/dunst)
-   - **Development Environnement:** [VSCodium](https://github.com/VSCodium/vscodium)
+- **Window Manager:** [bspwm](https://github.com/baskerville/bspwm)
+- **Terminal:** [kitty](https://github.com/kovidgoyal/kitty)
+- **Shell:** [zsh](https://www.zsh.org/)
+- **Compositor:** [picom](https://github.com/yshui/picom)
+- **Editor:** [neovim](https://github.com/neovim/neovim)
+- **Browser:** [firefox](https://www.mozilla.org/en-US/firefox)
+- **Notification Daemon:** [dunst](https://github.com/dunst-project/dunst)
+- **Development Environnement:** [VSCodium](https://github.com/VSCodium/vscodium)
+
 
 <!-- MAKE INSTALLATION EASIER -->
 ## 🌿 <samp>MAKE INSTALLATION EASIER</samp>
