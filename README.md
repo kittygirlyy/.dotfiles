@@ -1,7 +1,7 @@
 <!-- INFORMATION -->
 ## :cat: <samp>INFORMATIONS</samp>
 
-<img align="right" width="400" height="225" src="https://cdn.discordapp.com/attachments/1097223823935418538/1099059637023682650/neko.png?ex=662c058d&is=6619908d&hm=58681f2e73fe5be817f2c50a164a06458834246bb2d2d8bddc58f3a5f1140329&">
+<img align="right" width="400" height="225" src="https://cdn.discordapp.com/attachments/1257042603023532142/1277948379732643901/image.png?ex=66cf05ac&is=66cdb42c&hm=28afb77bd5f15f90a409ff592a18cdf1bf734f3734fc3bff3049d76f2b1edfc2&">
 
 - **Window Manager:** [bspwm](https://github.com/baskerville/bspwm)
 - **Terminal:** [kitty](https://github.com/kovidgoyal/kitty)
