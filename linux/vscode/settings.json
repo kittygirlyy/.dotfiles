@@ -1,4 +1,5 @@
 {
+	"codam-norminette-3.highlight-color": "rgba(189, 39, 116, 0.8)",
     "window.zoomLevel": 0.2,
     "terminal.integrated.smoothScrolling": true,
     "editor.bracketPairColorization.enabled": true,
