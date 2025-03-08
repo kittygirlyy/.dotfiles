@@ -1,5 +1,4 @@
 {
-	"codam-norminette-3.highlight-color": "rgba(189, 39, 116, 0.8)",
     "window.zoomLevel": 0.2,
     "terminal.integrated.smoothScrolling": true,
     "editor.bracketPairColorization.enabled": true,
@@ -9,6 +8,7 @@
     "workbench.colorTheme": "930c70c8-474e-4e2d-a223-d1e2b9da4fb1",
     "workbench.iconTheme": "material-icon-theme",
     "workbench.tips.enabled": false,
+    "workbench.list.smoothScrolling": true,
     "vscord.app.name": "Custom",
     "vscord.status.details.text.debugging": "😻 Debugging {file_name}",
     "vscord.status.details.text.editing": "​💖 In {workspace} {problems}",
@@ -29,7 +29,7 @@
     "[html]": {
         "editor.defaultFormatter": "vscode.html-language-features"
     },
-    "glassit.alpha": 200,
+    "glassit.alpha": 230,
     "explorer.confirmDelete": false,
     "[javascript]": {
         "editor.defaultFormatter": "esbenp.prettier-vscode"
@@ -52,6 +52,7 @@
     "editor.detectIndentation": false,
     "editor.fontSize": 13,
     "editor.lineHeight": 1.5,
+    "editor.smoothScrolling": true,
 
     "apc.font.family": "Dank Mono",
     "apc.listRow": {
@@ -78,4 +79,5 @@
       ".monaco-editor .scroll-decoration": "display: none !important",
       ".monaco-scrollable-element > .shadow.top": "display: none !important",
     },
+    "update.mode": "manual",
 }
