@@ -15,7 +15,7 @@
 
 <!-- MAKE INSTALLATION EASIER -->
 ## 🌿 <samp>MAKE INSTALLATION EASIER</samp>
-
+> 🧪 Tested on Arch-based distros — **Do not run as sudo!**
 ```bash
 #!/bin/sh
 
